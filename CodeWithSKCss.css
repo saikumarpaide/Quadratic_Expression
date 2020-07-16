@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    border: 3px solid black;
+}
+
+body{
+    border:3px aquamarine solid;
+}
+h1{
+    color: white;
+    border: 2px solid aqua;
+}
+#title{
+    background-color: gray;
+}
+.menu{
+    background-color:teal;
+}
+.table{
+
+    width: 100%;
+    height: 80%;
+    border: 0;
+    background-color: black;
+}
+ul.menu li a{
+
+    color: whitesmoke;
+    font-size: 21px;
+    list-style: none;
+    margin: 10px;
+    text-decoration: none;
+    padding: 10px;
+}
+li{
+    list-style: none;
+}
+.footer{
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+}
+article{
+    padding: 30px;
+    margin: 30px;
+}
+#value{
+    position: relative;
+}
+.math{
+    margin-left: 38%;
+    display: inline-block;
+    border: 3px solid darkred;
+    block-size: auto;
+    font-weight: bolder;
+    font-size: 50px;
+    background-color: honeydew;
+}
